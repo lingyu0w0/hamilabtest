@@ -1,3 +1,3 @@
-# hamilabtest
-Test site for HaMI Lab
+# HaMI Lab Test Site
+Welcome to test site for HaMI Lab!
 ## Test Title
