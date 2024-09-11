@@ -1,4 +1,2 @@
-layout: page
-title: "Publications"
-permalink: /publications
-# Test Title
+
+# Publications
